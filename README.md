@@ -21,9 +21,9 @@ Create a simple single page application that provides the following features:
 
 Use [SWAPI](https://swapi.dev/) to obtain all the star wars data that you need.
 
-Use whatever languages or tech you want -- we are looking for clean, testable code that demonstrates usage of common design patterns and best practices above all else. 
-
 #### What we are looking for
+
+We are looking for clean, testable code that demonstrates usage of common design patterns and best practices above all else. 
 
 We will be using the code challenge to evaluate the following:
 
